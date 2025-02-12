@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-springcoiling.com	TRUE	/	FALSE	1999999999	lg	cn
-springcoiling.com	TRUE	/	FALSE	1999999999	PbootSystem	66f974fb43e14edc1e0224e6194029a1
-
